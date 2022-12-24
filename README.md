@@ -2,8 +2,6 @@
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
 ![Language](https://img.shields.io/github/languages/top/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
 ![Platform](https://img.shields.io/badge/platform-jupyter%20labs-blue)
-![Maintained](https://img.shields.io/maintenance/yes/2020)
-![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
 [![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)](https://github.com/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
 ![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
