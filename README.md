@@ -48,15 +48,7 @@ files.upload() #upload kaggle.json
 - Create custom Dataset and DataLoader in PyTorch
 - Train a ResNet-18 model in PyTorch to perform Image Classification
 
-## Installation
-Clone this repository:
 
-```
-git clone https://github.com/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch.git
-
-```
-
-or click `Download ZIP` in right panel of repository and extract it.
 
 Open latest version of notebook in __Jupyter Notebook__.
 
