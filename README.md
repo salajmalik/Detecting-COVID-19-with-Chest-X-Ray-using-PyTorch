@@ -1,12 +1,4 @@
-[ 
 
-![Language](https://img.shields.io/github/languages/top/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
-
-[![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)](https://github.com/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
-![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
-[![GitHub license](https://img.shields.io/github/license/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)](https://github.com/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch/blob/main/LICENSE)
-![Size](https://img.shields.io/github/repo-size/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
 
 
 # __Detecting COVID 19 with Chest X-Ray using PyTorch__
